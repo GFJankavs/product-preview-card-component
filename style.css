@@ -103,7 +103,7 @@ main {
   gap: 20px;
   font-family: var(--font-fraunces);
   justify-items: flex-start;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .price__discount {
