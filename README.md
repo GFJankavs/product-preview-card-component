@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Version](./screenshot_desktop.jpg)
-![Mobile Version](./screenshot_mobile.jpg)
+![Desktop Version](./screenshot_desktop.png)
+![Mobile Version](./screenshot_mobile.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://gfjankavs.github.io/product-preview-card-component/)
 
 ## My process
 
